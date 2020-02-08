@@ -119,7 +119,7 @@
     }
 }
 
-@media only screen and (max-device-width: 357px){
+@media only screen and (max-device-width: 400px){
     body{
         background-size: 100vw 230vh;
     }
