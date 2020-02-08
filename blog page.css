@@ -68,7 +68,7 @@
 
 @media only screen and (max-device-width: 700px){
     body{
-        background-size: 100vw 200vh;
+        background-size: 100vw 210vh;
     }
     .box{
         position: absolute;
@@ -87,8 +87,8 @@
     }
 
     p{
-        margin-top:-10px;
-        font-size: 10px;
+        margin-top:-14px;
+        font-size: 12px;
     }
 }
 body{
