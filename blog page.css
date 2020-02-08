@@ -60,7 +60,7 @@
         left: 50%;
         top: 50%;
         transform: translate(-50%,-55%);
-        width: 300px;
+        width: 200px;
         /* height: 70%; */
     }
 }
@@ -68,7 +68,7 @@ body{
     margin: 0;
     padding: 0;
     background: url("profile.jpg") no-repeat fixed center;
-    background-size: 100vw 150vh;
+    background-size: 100vw 180vh;
     margin-top: 0;
     min-height: 100%;
     min-width: 1024px;
