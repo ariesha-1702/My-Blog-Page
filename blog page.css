@@ -67,13 +67,16 @@
 }
 
 @media only screen and (max-device-width: 700px){
+    body{
+        background-size: 100vw 200vh;
+    }
     .box{
-        position: relative;
+        position: absolute;
         left: 50%;
         top: 50%;
         transform: translate(-50%,-55%);
         width: 200px;
-        height:70%;
+        height:80%;
         /* height: 70%; */
     }
 
@@ -84,7 +87,6 @@
     }
 
     p{
-        position: absolute;
         margin-top:-5px;
         font-size: -10px;
     }
