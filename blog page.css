@@ -76,7 +76,7 @@
         top: 50%;
         transform: translate(-50%,-55%);
         width: 200px;
-        height:70%;
+        height:80%;
         /* height: 70%; */
     }
 
@@ -87,7 +87,7 @@
     }
 
     p{
-        margin-top:-14px;
+        margin-top:-17px;
         font-size: 12px;
     }
 }
