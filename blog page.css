@@ -94,11 +94,11 @@ body{
 }
 .my_name{
     margin-top:-5px;
-    font-size: 14px;
+    font-size: 12px;
     font-family: 'Playball', cursive;
 }
 p{
-    margin-top:-5px;
+    margin-top:-10px;
     font-family: 'Ubuntu', sans-serif;
     font-size: 12px;
 }
