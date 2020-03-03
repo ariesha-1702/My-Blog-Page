@@ -55,47 +55,21 @@
         height: 70%; 
     }
 }
-@media only screen and (max-device-width: 750px){
+@media only screen and (max-device-width: 768px){
     .box{
         position: absolute;
         left: 50%;
         top: 50%;
         transform: translate(-50%,-55%);
         width: 200px;
-        height:70%;
+        height:77%;
         /* height: 70%; */
-    }
-}
-
-@media only screen and (max-device-width: 700px){
-    body{
-        background-size: 100vw 230vh;
-    }
-    .box{
-        position: absolute;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%,-55%);
-        width: 200px;
-        height:70%;
-        /* height: 70%; */
-    }
-
-    .my_name{
-        margin-top:-5px;
-        font-size: 11px;
-       font-family: 'Playball', cursive;
-    }
-
-    p{
-        margin-top:-17px;
-        font-size: 12px;
     }
 }
 
 @media only screen and (max-device-width: 650px){
     body{
-        background-size: 100vw 230vh;
+        background-size: 200vw 230vh;
     }
     .box{
         position: absolute;
@@ -115,13 +89,39 @@
 
     p{
         margin-top:-17px;
-        font-size: 12px;
+        font-size: 16px;
     }
 }
 
+/* @media only screen and (max-device-width: 650px){
+    body{
+        background-size: 250vw 230vh;
+    }
+    .box{
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-55%);
+        width: 200px;
+        height:70%;
+        
+    }
+
+    .my_name{
+        margin-top:-5px;
+        font-size: 11px;
+       font-family: 'Playball', cursive;
+    }
+
+    p{
+        margin-top:-17px;
+        font-size: 12px;
+    }
+} */
+
 @media only screen and (max-device-width: 400px){
     body{
-        background-size: 100vw 230vh;
+        background-size: 390vw 230vh;
     }
     .box{
         position: absolute;
@@ -134,14 +134,14 @@
     }
 
     .my_name{
-        margin-top:-5px;
+        margin-top: 12px;
         font-size: 11px;
        font-family: 'Playball', cursive;
     }
 
     p{
         margin-top:-17px;
-        font-size: 12px;
+    
     }
 }
 /* body{
